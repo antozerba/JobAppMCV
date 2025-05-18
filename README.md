@@ -46,4 +46,4 @@ mvn spring-boot:run
 
 L'applicazione sarà disponibile all'indirizzo http://localhost:8080.
 
-
+![Avvio Applicazione](avvio.png)
